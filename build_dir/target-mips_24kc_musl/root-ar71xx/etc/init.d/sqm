@@ -1,0 +1,29 @@
+#!/bin/sh /etc/rc.common
+
+START=50
+
+reload()
+{
+    start
+}
+
+restart()
+{
+    reload
+}
+
+start()
+{
+    /usr/lib/sqm/run.sh start
+}
+
+stop()
+{
+    /usr/lib/sqm/run.sh stop
+}
+
+boot()
+{
+    export SQM_VERBOSITY_MIN=5 # Silence errors
+    /usr/lib/sqm/run.sh start
+}

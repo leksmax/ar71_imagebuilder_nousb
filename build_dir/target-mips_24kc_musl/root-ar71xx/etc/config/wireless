@@ -1,0 +1,23 @@
+
+config wifi-device 'radio0'
+	option noscan '1'
+	option type 'mac80211'
+	option hwmode '11g'
+	option path 'platform/qca953x_wmac'
+	option distance '200'
+	option frag '1024'
+	option rts '1024'
+	option country '00'
+	option channel '5'
+	option txpower '18'
+
+config wifi-iface
+	option device 'radio0'
+	option network 'lan'
+	option mode 'ap'
+	option encryption 'psk2+ccmp'
+	option wpa_group_rekey '0'
+	option disassoc_low_ack '0'
+	option ssid 'gga_kt'
+	option key '298663298663'
+

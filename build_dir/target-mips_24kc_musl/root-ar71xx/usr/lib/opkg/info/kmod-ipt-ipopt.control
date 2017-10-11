@@ -1,0 +1,21 @@
+Package: kmod-ipt-ipopt
+Version: 4.4.53-1
+Depends: kernel (=4.4.53-1-dcd96842ecd5945e76b3f619cea31f88), kmod-ipt-core
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Architecture: mips_24kc
+Installed-Size: 5991
+Description:  Netfilter (IPv4) modules for matching/changing IP packet options
+ Includes:
+ - CLASSIFY
+ - dscp/DSCP
+ - ecn/ECN
+ - hl/HL
+ - length
+ - mark/MARK
+ - statistic
+ - tcpmss
+ - time
+ - ttl/TTL
+ - unclean

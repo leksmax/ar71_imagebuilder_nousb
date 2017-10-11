@@ -1,0 +1,10 @@
+config queue
+        option debug_logging '0'
+        option linklayer 'none'
+        option interface 'eth0'
+        option qdisc_advanced '0'
+        option qdisc 'sfq'
+        option script 'nxt_routed_hfsc.qos'
+        option enabled '1'
+        option upload '140000'
+        option download '120000'

@@ -1,0 +1,10 @@
+Package: netifd
+Version: 2017-03-07-91810ecc-1
+Depends: libc, libuci, libnl-tiny, libubus, ubus, ubusd, jshn, libubox
+Source: package/network/config/netifd
+License: GPL-2.0
+Section: base
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips_24kc
+Installed-Size: 58864
+Description:  OpenWrt Network Interface Configuration Daemon

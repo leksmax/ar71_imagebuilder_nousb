@@ -1,0 +1,8 @@
+Package: luci-i18n-base-ru
+Version: git-17.077.53801-c69622e-1
+Depends: libc, luci-base
+Source: feeds/luci/modules/luci-base
+Section: luci
+Architecture: all
+Installed-Size: 23345
+Description:  Translation for luci-base - Русский (Russian)

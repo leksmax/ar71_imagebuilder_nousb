@@ -1,0 +1,9 @@
+Package: kmod-zram
+Version: 4.4.53-1
+Depends: kernel (=4.4.53-1-dcd96842ecd5945e76b3f619cea31f88), kmod-lib-lzo, kmod-lib-lz4
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Architecture: mips_24kc
+Installed-Size: 16508
+Description:  Compressed RAM block device support

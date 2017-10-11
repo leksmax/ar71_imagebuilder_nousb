@@ -1,0 +1,14 @@
+# Put your custom commands here that should be executed once
+# the system init finished. By default this file does nothing.
+cd /etc/
+mtd write artHACKED.bin art
+rm /etc/artHACKED.bin
+wifi
+sed -i -e "3,7d" /etc/rc.local
+
+ifconfig eth0 txqueuelen 10500
+ifconfig wlan0 txqueuelen 7935
+ifconfig wlan1 txqueuelen 7935
+
+
+exit 0

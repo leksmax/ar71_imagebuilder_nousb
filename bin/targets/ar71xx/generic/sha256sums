@@ -1,0 +1,12 @@
+f8710d13bf62a9ede02a348c22f105f224aea404e162c9c22d96a82e952a02be *lede-snapshot-r3778-312b9dc-ar71xx-generic-device-tl-mr3420-v2.manifest
+f8710d13bf62a9ede02a348c22f105f224aea404e162c9c22d96a82e952a02be *lede-snapshot-r3778-312b9dc-ar71xx-generic-device-tl-wr841-v10.manifest
+4f92c59ad2d739f4d969ee0b44136968e10cb56548ceae188216e5bc63bb1375 *lede-snapshot-r3778-312b9dc-ar71xx-generic-root.squashfs
+acb2c96a4e146741f956ce60de4bad029ae12e7f1edc665ace4d5d196edf5fcd *lede-snapshot-r3778-312b9dc-ar71xx-generic-tl-mr3420-v2-squashfs-factory.bin
+f86c416eb77e8ba000f3526feae358bab1dd8759fa9bdcb7ef815a48b9173681 *lede-snapshot-r3778-312b9dc-ar71xx-generic-tl-mr3420-v2-squashfs-sysupgrade.bin
+7bd3789fd3e1aced8ac97f15618c46915b465b34aa9c12851410da73969c05c8 *lede-snapshot-r3778-312b9dc-ar71xx-generic-tl-wr841-v10-squashfs-factory.bin
+2d68ba7161abc0edccf64cbc2c7596d3b5885ebcd527bd57c1992777fbfe6fa4 *lede-snapshot-r3778-312b9dc-ar71xx-generic-tl-wr841-v10-squashfs-sysupgrade.bin
+dca045144b3c2df6448680d3d8c02d950f8b5826e3ac1ac56baf9faf81cc3d18 *lede-snapshot-r3778-312b9dc-ar71xx-generic-uImage-lzma.bin
+eb679324bf4490057de7c581f178354a7e766d28588e9138c1eac46bbae06148 *lede-snapshot-r3778-312b9dc-ar71xx-generic-vmlinux-lzma.elf
+69e8f4ac4825f79ec3503704b3169b13542be0a1f05a1db8e8bed3a03cb358c3 *lede-snapshot-r3778-312b9dc-ar71xx-generic-vmlinux.bin
+476ae50534c468d8ba02e6e36854b73ea08a05410232e8939686f20b74793753 *lede-snapshot-r3778-312b9dc-ar71xx-generic-vmlinux.elf
+fd7f11b315f68c3927e0b04606c7337da277f9267a8d1bd312d9732e0fd8fcf3 *lede-snapshot-r3778-312b9dc-ar71xx-generic-vmlinux.lzma
